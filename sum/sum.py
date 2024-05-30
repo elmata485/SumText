@@ -1,5 +1,5 @@
 def sum(a, b):
-    """Sum of two floats.
+    """Su of two floats.
 
     Examples:
         >>> sum(3.0, 4.0)
